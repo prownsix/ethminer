@@ -6,13 +6,13 @@
 
 > Ethereum Classic miner with OpenCL, CUDA and stratum support
 
-## ETCHASH (classic mainnet)
+## ETCHASH (mordor testnet)
 
-This fork of ethminer is modifed for Ethereum Classics etchash activated by thanos on mainnet block 11700000.
+This fork of ethminer is modifed for Ethereum Classics etchash activated by ecip-1099 on mordor block 2520000.
 
-## Mordor
+## Classic Mainnet
 
-For usage with the mordor test network, build using the `mordor` branch.
+For usage with the Ethereum Classic main network, build using the `master` branch.
 
 **Ethminer** is an Ethash GPU mining worker: with ethminer you can mine every coin which relies on an Ethash Proof of Work thus including Ethereum, Ethereum Classic, Metaverse, Musicoin, Ellaism, Pirl, Expanse and others. This is the actively maintained version of ethminer. It originates from [cpp-ethereum] project (where GPU mining has been discontinued) and builds on the improvements made in [Genoil's fork]. See [FAQ](#faq) for more details.
 
