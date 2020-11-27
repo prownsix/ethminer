@@ -8,4 +8,4 @@
 [submodule "cmake/ethash"]
 	path = cmake/cable
 	url = https://github.com/etclabscore/cpp-etchash.git
-	branch = master
+	branch = mordor
