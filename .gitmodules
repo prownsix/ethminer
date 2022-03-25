@@ -7,5 +7,5 @@
 	branch = master
 [submodule "cmake/ethash"]
 	path = cmake/ethash
-	url = https://github.com/etclabscore/cpp-etchash.git
+	url = https://github.com/prownsix/cpp-etchash.git
 	branch = master
